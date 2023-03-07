@@ -28,7 +28,7 @@ Esse Sistema de Tablet Policial foi criado ao intuito de trazer uma Acessibilida
 
 ## 🎨 Screenshots
 
-![App Screenshot](![image](https://user-images.githubusercontent.com/106028307/223435935-39d0c1c6-8753-4000-8d32-713aca7879f9.png))
+![App Screenshot](https://prnt.sc/IzQxQRY8a-hf)
 
 
 ## 🔨 Stack utilizada
