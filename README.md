@@ -5,7 +5,6 @@ Esse Sistema de Tablet Policial foi criado ao intuito de trazer uma Acessibilida
 
 
 
-
 ## 💭 Logica Para Criação
 
  - [ MAPA MENTAL](https://whimsical.com/police-tablet-PWNjbppnQ34yZ4qHGvqKxZ)
@@ -26,11 +25,10 @@ Esse Sistema de Tablet Policial foi criado ao intuito de trazer uma Acessibilida
 - Ver Descrição de Veiculos
 - Etc...
 
-## 🎨 Screenshots
-
-![App Screenshot](https://prnt.sc/IzQxQRY8a-hf)
-
-
 ## 🔨 Stack utilizada
 
 **Full Stack:** Lua
+
+## 🖥 Status
+
+**COMPLETE (100%)**
